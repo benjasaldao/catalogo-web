@@ -1,0 +1,6 @@
+C:\Users\Benja\OneDrive\Escritorio\Curso C# nivel 2\TPFinalNivel2_Saldaño\Utilities\bin\Debug\Utilities.dll
+C:\Users\Benja\OneDrive\Escritorio\Curso C# nivel 2\TPFinalNivel2_Saldaño\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Benja\OneDrive\Escritorio\Curso C# nivel 2\TPFinalNivel2_Saldaño\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\Benja\OneDrive\Escritorio\Curso C# nivel 2\TPFinalNivel2_Saldaño\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Benja\OneDrive\Escritorio\Curso C# nivel 2\TPFinalNivel2_Saldaño\Utilities\obj\Debug\Utilities.dll
+C:\Users\Benja\OneDrive\Escritorio\Curso C# nivel 2\TPFinalNivel2_Saldaño\Utilities\obj\Debug\Utilities.pdb
